@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="arsiv.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="arsiv.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/arsiv.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.407408">
-              <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.4684564">
+              <caret line="127" column="54" selection-start-line="127" selection-start-column="54" selection-end-line="127" selection-end-column="54" />
               <folding>
                 <element signature="n#emre#0;n#!!top" expanded="false" />
                 <element signature="e#595#1257#0#PHP" expanded="false" />
@@ -34,19 +34,24 @@
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ins#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1449923036381" expanded="true" signature="3253:3298" placeholder="SELECT DISTI..sorular..." />
-                <marker date="1449923036381" expanded="true" signature="3379:3478" placeholder="select count..sorular..." />
-                <marker date="1449923036381" expanded="true" signature="4356:4455" placeholder="SELECT * FRO..sorular..." />
+                <marker date="1449923616557" expanded="true" signature="3253:3298" placeholder="SELECT DISTI..sorular..." />
+                <marker date="1449923616557" expanded="true" signature="3379:3478" placeholder="select count..sorular..." />
+                <marker date="1449923616557" expanded="true" signature="4356:4455" placeholder="SELECT * FRO..sorular..." />
+                <marker date="1449923616557" expanded="true" signature="5447:5465" placeholder="..." />
+                <marker date="1449923616557" expanded="true" signature="5466:6071" placeholder="..." />
+                <marker date="1449923616557" expanded="true" signature="5687:5913" placeholder="..." />
+                <marker date="1449923616557" expanded="true" signature="5728:5773" placeholder="..." />
+                <marker date="1449923616557" expanded="true" signature="5950:6071" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6308725">
-              <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
+            <state vertical-scroll-proportion="-12.074074">
+              <caret line="95" column="44" selection-start-line="95" selection-start-column="44" selection-end-line="103" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#ins#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1449923042945" expanded="true" signature="175:217" placeholder="SELECT * FRO..sorular..." />
@@ -65,8 +70,8 @@
         <option value="$PROJECT_DIR$/themes/emrek.css" />
         <option value="$PROJECT_DIR$/process.php" />
         <option value="$PROJECT_DIR$/themes/emrek.min.css" />
-        <option value="$PROJECT_DIR$/arsiv.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/arsiv.php" />
       </list>
     </option>
   </component>
@@ -74,6 +79,9 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -160,6 +168,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="27702255-cf42-4f41-a5b7-31ffa4c0563f" name="Default" comment="" />
@@ -171,7 +182,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="-4" width="1557" height="904" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1522158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -192,6 +203,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -204,14 +223,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.592592">
           <caret line="583" column="0" selection-start-line="583" selection-start-column="0" selection-end-line="583" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbkontrol.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2657718">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -237,10 +248,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dbkontrol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0966443">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.074074">
+          <caret line="95" column="44" selection-start-line="95" selection-start-column="44" selection-end-line="103" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1449923042945" expanded="true" signature="175:217" placeholder="SELECT * FRO..sorular..." />
+            <marker date="1449923042945" expanded="true" signature="244:286" placeholder="SELECT * FRO..sorular..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/arsiv.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.407408">
-          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.4684564">
+          <caret line="127" column="54" selection-start-line="127" selection-start-column="54" selection-end-line="127" selection-end-column="54" />
           <folding>
             <element signature="n#emre#0;n#!!top" expanded="false" />
             <element signature="e#595#1257#0#PHP" expanded="false" />
@@ -248,21 +279,14 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ins#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1449923036381" expanded="true" signature="3253:3298" placeholder="SELECT DISTI..sorular..." />
-            <marker date="1449923036381" expanded="true" signature="3379:3478" placeholder="select count..sorular..." />
-            <marker date="1449923036381" expanded="true" signature="4356:4455" placeholder="SELECT * FRO..sorular..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6308725">
-          <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#ins#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1449923042945" expanded="true" signature="175:217" placeholder="SELECT * FRO..sorular..." />
-            <marker date="1449923042945" expanded="true" signature="244:286" placeholder="SELECT * FRO..sorular..." />
+            <marker date="1449923616557" expanded="true" signature="3253:3298" placeholder="SELECT DISTI..sorular..." />
+            <marker date="1449923616557" expanded="true" signature="3379:3478" placeholder="select count..sorular..." />
+            <marker date="1449923616557" expanded="true" signature="4356:4455" placeholder="SELECT * FRO..sorular..." />
+            <marker date="1449923616557" expanded="true" signature="5447:5465" placeholder="..." />
+            <marker date="1449923616557" expanded="true" signature="5466:6071" placeholder="..." />
+            <marker date="1449923616557" expanded="true" signature="5687:5913" placeholder="..." />
+            <marker date="1449923616557" expanded="true" signature="5728:5773" placeholder="..." />
+            <marker date="1449923616557" expanded="true" signature="5950:6071" placeholder="..." />
           </folding>
         </state>
       </provider>

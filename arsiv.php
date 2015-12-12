@@ -124,6 +124,19 @@ $TurkceAylar =  strtr(date("d F Y, l"), $aylar);
                         </div>
 
                     </div>
+                    <?php if ($sayi%5==0){ ?>
+                      <div style="text-align:center;">
+                          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Mobil DGS Banner -->
+                            <ins class="adsbygoogle"
+                                 style="display:inline-block;width:320px;height:100px"
+                                 data-ad-client="ca-pub-8523283898799216"
+                                 data-ad-slot="5116087096"></ins>
+                            <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                      </div>
+                    <?php }?>
                 <?php  }  ?>
 			</div>
 
